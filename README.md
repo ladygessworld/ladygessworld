@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ladygessworld, front-end developer
+👋 Hi, I’m @ladygessworld, front-end developer
